@@ -1,4 +1,4 @@
-# 欢迎使用BibleLight（亮光）圣经工具1.0.0
+# 欢迎使用BibleLight（亮光）圣经工具
 
 [演示视频](https://www.youtube.com/watch?v=2W1emPmBaJQ)
 
@@ -42,7 +42,6 @@
 
 ## ❌ 不支持的格式：  
 
-- 英文书卷名的查询
 - 跨章查询
 - 整章查询
 
@@ -57,3 +56,4 @@
 - [https://github.com/AaronJP/BibleLight/releases](https://github.com/AaronJP/BibleLight/releases)
 
 > SOLI DEO GLORIA
+
