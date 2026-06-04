@@ -68,12 +68,15 @@
 ## ✉️ 联系方式
 
 **微信**：Aaron_JP  
+**邮箱**：Narcissus.lemon@gmail.com
 **反馈建议**：若有其他常见格式无法解析的，欢迎您的反馈！
 
 ## 🔗 项目链接
 
-- github:https://github.com/AaronJP/BibleLight/releases
-- 阿里云盘下载地址：https://www.alipan.com/s/nfGMpg3DNwF
+• [GitHub项目发布页](https://github.com/AaronJP/BibleLight/releases)
+
+• [阿里云下载](https://www.alipan.com/s/nfGMpg3DNwF)
+
 
 ---
 
