@@ -1,4 +1,4 @@
-# BibleLight（亮光）圣经工具
+# BibleLight 圣经工具
 
 ## 💡 工具介绍
 
